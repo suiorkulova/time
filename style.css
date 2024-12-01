@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #1d2630;
+}
+
+.container {
+  text-align: center;
+}
+.result {
+  font-size: 60px;
+  color: #1d2630;
+  background-color: #fff;
+  padding: 30px 0;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin: 30px;
+  border-radius: none;
+  outline: none;
+  width: 100px;
+  color: #1d2630;
+  font-weight: bold;
+  border-radius: 3px;
+  cursor: pointer;
+}
